@@ -1,0 +1,6 @@
+from scripts.scraper import CentrCommercialScraper
+
+print("✅ Scraper fonctionne !")
+
+scraper = CentrCommercialScraper()
+print("✅ Scraper initialisé avec succès !")

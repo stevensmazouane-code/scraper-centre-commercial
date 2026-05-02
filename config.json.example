@@ -1,0 +1,32 @@
+{
+  "sites": [
+    {
+      "nom": "Labège 2",
+      "url": "https://www.centre-commercial.fr/labege2/boutiques/",
+      "type": "static",
+      "selectors": {
+        "container": "div.magasin",
+        "nom": "h3.magasin-nom",
+        "categorie": "span.magasin-categorie",
+        "horaires": "p.horaires",
+        "localisation": "span.localisation"
+      }
+    },
+    {
+      "nom": "Centre Commercial Générique",
+      "url": "https://example-shopping-mall.com/stores",
+      "type": "static",
+      "selectors": {
+        "container": "article.store",
+        "nom": "h2",
+        "categorie": ".category"
+      }
+    }
+  ],
+  "options": {
+    "timeout": 10,
+    "retry_count": 3,
+    "headless_mode": true,
+    "respect_robots_txt": true
+  }
+}

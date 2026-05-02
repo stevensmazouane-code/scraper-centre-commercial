@@ -1,0 +1,13 @@
+nom,categorie,localisation,horaires,date_extraction,categorie_normalisee
+Zara,Vêtements & Mode,Étage 1,9h-20h,2024-01-15,Mode
+H&M,Vêtements & Mode,Étage 1,9h-20h,2024-01-15,Mode
+Uniqlo,Vêtements & Mode,Étage 2,10h-21h,2024-01-15,Mode
+Décathlon,Sport & Loisirs,Étage 0,9h-22h,2024-01-15,Loisirs
+Carrefour Express,Hyper & Supermarché,Sous-sol,8h-22h,2024-01-15,Hyper/Supermarché
+Apple Store,Électronique & Informatique,Étage 1,10h-20h,2024-01-15,Électronique
+Samsung,Électronique & Informatique,Étage 1,10h-20h,2024-01-15,Électronique
+Sephora,Beauté & Cosmétiques,Étage 1,9h-20h,2024-01-15,Beauté
+Starbucks,Restauration,Étage 2,7h-21h,2024-01-15,Alimentation
+McDonald's,Restauration,Food court,10h-23h,2024-01-15,Alimentation
+Foot Locker,Chaussures & Sport,Étage 1,10h-20h,2024-01-15,Loisirs
+Fnac,Loisirs & Culture,Étage 2,10h-20h,2024-01-15,Loisirs
